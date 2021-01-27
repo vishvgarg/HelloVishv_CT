@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295649494721",
+    "project_id": "hellovishv",
+    "storage_bucket": "hellovishv.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295649494721:android:f8666ec54c56d89365b640",
+        "android_client_info": {
+          "package_name": "com.example.hellovishv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295649494721-orip79lj2s3eb1h1jqvn3a2h7aopftdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNUIA-KeB0HOg1SKu9N_02zBG2itcLo_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295649494721-orip79lj2s3eb1h1jqvn3a2h7aopftdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
